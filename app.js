@@ -39,5 +39,5 @@ app.get("/metrics", async (req, res) => {
 });
 
 app.listen(5000, () => {
-  console.log("Server running on port 3000");
+  console.log("Server running on port 5000");
 });
